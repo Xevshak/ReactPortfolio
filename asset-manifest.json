@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.f8e9d770.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.10cc1398.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.10cc1398.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.ad87311a.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.ad87311a.js.map",
+    "static/js/2.b9788bfc.chunk.js": "/ReactPortfolio/static/js/2.b9788bfc.chunk.js",
+    "static/js/2.b9788bfc.chunk.js.map": "/ReactPortfolio/static/js/2.b9788bfc.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.edb28acd67cdabffaa99410c720bf4a0.js": "/ReactPortfolio/precache-manifest.edb28acd67cdabffaa99410c720bf4a0.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/main.f8e9d770.chunk.css.map": "/ReactPortfolio/static/css/main.f8e9d770.chunk.css.map",
+    "static/js/2.b9788bfc.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.b9788bfc.chunk.js.LICENSE.txt",
+    "static/media/calculator.jpg": "/ReactPortfolio/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.jpg": "/ReactPortfolio/static/media/cover-image.c00c87af.jpg",
+    "static/media/in-the-loop.jpg": "/ReactPortfolio/static/media/in-the-loop.8bc68b94.jpg",
+    "static/media/led-wall.jpg": "/ReactPortfolio/static/media/led-wall.653c2b3d.jpg",
+    "static/media/pastel-puzzels.jpg": "/ReactPortfolio/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/pokequiz.jpg": "/ReactPortfolio/static/media/pokequiz.ff7e6707.jpg",
+    "static/media/run-buddy.jpg": "/ReactPortfolio/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/ReactPortfolio/static/media/surf-report.12557c9b.jpg",
+    "static/media/sweeper.jpg": "/ReactPortfolio/static/media/sweeper.5e8c743f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad87311a.js",
+    "static/js/2.b9788bfc.chunk.js",
+    "static/css/main.f8e9d770.chunk.css",
+    "static/js/main.10cc1398.chunk.js"
+  ]
+}
