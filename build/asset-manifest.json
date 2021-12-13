@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8e9d770.chunk.css",
+    "main.js": "/static/js/main.79a50569.chunk.js",
+    "main.js.map": "/static/js/main.79a50569.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.b9788bfc.chunk.js": "/static/js/2.b9788bfc.chunk.js",
+    "static/js/2.b9788bfc.chunk.js.map": "/static/js/2.b9788bfc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e3c8915ef9b698915aeda5e864d01b01.js": "/precache-manifest.e3c8915ef9b698915aeda5e864d01b01.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f8e9d770.chunk.css.map": "/static/css/main.f8e9d770.chunk.css.map",
+    "static/js/2.b9788bfc.chunk.js.LICENSE.txt": "/static/js/2.b9788bfc.chunk.js.LICENSE.txt",
+    "static/media/calculator.jpg": "/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.jpg": "/static/media/cover-image.c00c87af.jpg",
+    "static/media/in-the-loop.jpg": "/static/media/in-the-loop.8bc68b94.jpg",
+    "static/media/led-wall.jpg": "/static/media/led-wall.653c2b3d.jpg",
+    "static/media/pastel-puzzels.jpg": "/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/pokequiz.jpg": "/static/media/pokequiz.ff7e6707.jpg",
+    "static/media/run-buddy.jpg": "/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/static/media/surf-report.12557c9b.jpg",
+    "static/media/sweeper.jpg": "/static/media/sweeper.5e8c743f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.b9788bfc.chunk.js",
+    "static/css/main.f8e9d770.chunk.css",
+    "static/js/main.79a50569.chunk.js"
+  ]
+}
